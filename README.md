@@ -1,4 +1,4 @@
-<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Programmer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Developer and Cybersecurity Professional</a></h1>
+<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Developer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>💻 Projects:</h2>
 
