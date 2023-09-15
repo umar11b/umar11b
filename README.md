@@ -1,6 +1,6 @@
-<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Programmer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/ddddddd">YouTuber</a></h1>
+<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Programmer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Developer and Cybersecurity Professional</a></h1>
 
-<h2>💻 Cyber Security Projects:</h2>
+<h2>💻 Projects:</h2>
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -27,12 +27,10 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
-<h2>📱 Connect with me:</h2>
+<h2>📱 Connect with me</h2>
 
-[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/dddddddd
 [linkedin]: https://www.linkedin.com/in/umar-zaman-0a183217b/
 
 <!--
