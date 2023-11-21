@@ -1,4 +1,4 @@
-<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Developer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Developer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Front-end -> Full-stack Developer</a></h1>
 
 <h2>💻 Projects:</h2>
 <h3><a href="https://github.com/umar11b/BuzzTextApp"/">Buzz Texting App</a></h3>
