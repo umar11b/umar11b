@@ -1,7 +1,7 @@
-<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Developer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Front-end -> Full-stack Developer</a></h1>
+<h1>Meet Umar Zaman <br/><a href="https://github.com/umar11b?tab=repositories">Developer</a>, <a href="https://www.linkedin.com/in/umar-zaman-0a183217b/"/">Aspiring Full-stack Developer</a></h1>
 
 <h2>💻 Projects:</h2>
-<h3><a href="https://github.com/umar11b/PillowTalkApp"/">Dark Themed Mobile Texting App <i>(Under Development)</i>/a></h3>
+<h3><a href="https://github.com/umar11b/PillowTalkApp"/">Dark Themed Mobile Texting App <i>(Under Development)</i></a></h3>
 <h3><a href="https://github.com/umar11b/Modern-Game-Store-Launcher-UI"/">Game Launcher UI <i>(Under Development)</i></a></h3>
 
 <!--
