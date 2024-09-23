@@ -11,7 +11,7 @@
 - **Cloud Providers:** AWS, Azure
 - **Tools & Technologies:** Docker, Kubernetes, Terraform, Jenkins, Git
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Operating Systems:** Linux (Ubuntu), Windows
+- **Operating Systems:** MacOS, Linux (Ubuntu), Windows
 
 ## 🔧 Projects
 
