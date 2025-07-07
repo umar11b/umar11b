@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Bash, JavaScript, Go
-- **Cloud Providers:** AWS, Azure
+- **Cloud Providers:** AWS
 - **Tools & Technologies:** Docker, Kubernetes, Terraform, Jenkins, Git
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Operating Systems:** MacOS, Linux (Ubuntu), Windows
