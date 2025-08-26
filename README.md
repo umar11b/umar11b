@@ -1,58 +1,66 @@
-# Hi there, I'm Umar Zaman 👋
+# 👋 Hi, I'm Umar Zaman  
 
-## 🚀 About Me
-- 🌱 Aspiring DevOps Engineer and Site Reliability Engineer (SRE) with a passion for cloud computing, automation, and infrastructure management.
-- 💡 Interested in building scalable, reliable, and secure systems.
-- 🎓 Currently pursuing a degree in Computer Science with a specialization in Cloud Computing.
-- 🌍 Based in Toronto, ON.
+🚀 **Cloud & DevOps Engineer in the making** — passionate about automation, infrastructure, and building scalable systems.  
+🎓 4th year **Computer Science (Cloud Computing)** student at Sheridan College.  
+🌍 Based in Toronto, ON.  
+
+---
+
+## 💡 What I Do
+- Design **real-time cloud-native pipelines** with AWS services (SQS, Lambda, DynamoDB, S3, Glue, Athena).  
+- Deploy and manage **infrastructure as code** with Terraform.  
+- Build **CI/CD pipelines** using GitHub Actions for automated testing & deployments.  
+- Run a **Kubernetes homelab (K3s on Raspberry Pi 5)** for hands-on multi-tenant orchestration.  
+- Explore **monitoring/observability** with Prometheus, Grafana, and CloudWatch.  
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Bash, JavaScript, Go
-- **Cloud Providers:** AWS
-- **Tools & Technologies:** Docker, Kubernetes, Terraform, Git
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Operating Systems:** MacOS, Linux (Ubuntu, Debian), Windows
+- **Cloud:** AWS (EC2, S3, IAM, Lambda, DynamoDB, SQS, EventBridge, SNS, Glue, Athena, CloudWatch)  
+- **IaC & DevOps:** Terraform, GitHub Actions, Docker, Kubernetes (K3s)  
+- **Languages:** Python, Bash, Go, TypeScript  
+- **Databases:** DynamoDB, MongoDB, PostgreSQL  
+- **Monitoring:** CloudWatch, Prometheus, Grafana, Logrus  
+- **OS:** Linux (Ubuntu, Debian), macOS, Windows  
 
-## 🔧 Projects
+---
 
-coming soon!
-<!--
-1. **[Project Name](#)**
-   - Description: A brief description of what this project is about and what technologies you used.
-   - Tech Stack: [Technologies used]
-   - Role: [Your role in the project]
-   - [GitHub Repo](#) | [Live Demo](#)
+## 🔧 Featured Projects  
 
-2. **[Project Name](#)**
-   - Description: A brief description of what this project is about and what technologies you used.
-   - Tech Stack: [Technologies used]
-   - Role: [Your role in the project]
-   - [GitHub Repo](#) | [Live Demo](#)
--->
+### 📊 [BlockchainCore](https://github.com/umar11b/BlockchainCore)  
+A **real-time blockchain data analytics pipeline** on AWS.  
+- Binance WebSocket → **SQS** → **Lambda** → DynamoDB (OHLCV) + S3 (raw data).  
+- Analytics with **Glue + Athena**, anomaly detection via **EventBridge + SNS alerts**.  
+- IaC with **Terraform**, CI/CD with **GitHub Actions**, cost-optimized from Kinesis → SQS.  
 
-<!--
-## 📝 Blog & Writing
-- [Your Blog/Medium/Dev.to](#) - Where I write about DevOps, Cloud Computing, and SRE topics.
--->
+---
 
-## 📫 How to Reach Me
-- **Email:** [uzaman2018@gmail.com](mailto:uzaman2018@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/umarzaman2018/](#)
+### 🌱 [Greenalytics](https://github.com/umar11b/Greenalytics)  
+A **cloud-native sustainability dashboard**.  
+- Visualizes carbon emissions, waste, and energy usage.  
+- Automated CI/CD pipeline → **S3 + CloudFront** (static hosting with HTTPS).  
+- Built with **React, Vite, Chakra UI**, backend planned with **Node.js/DynamoDB**.  
 
+---
 
-<!--
-## 🌟 Fun Fact
-- I love automating repetitive tasks and am passionate about using technology to solve real-world problems.
+### 🖥️ [Raspberry Pi Kubernetes Homelab](#)  
+A **K3s-based Kubernetes homelab** on Raspberry Pi 5.  
+- Supports **multi-tenant workloads** with namespace isolation & RBAC.  
+- Monitoring with **Prometheus + Grafana**.  
+- Experimenting with **CI/CD deployments** into the cluster.  
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+---
 
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+## 📫 Connect With Me
+- 📧 Email: [zamanu@sheridancollege.ca](mailto:zamanu@sheridancollege.ca)  
+- 💼 LinkedIn: [linkedin.com/in/umarzaman2018](https://linkedin.com/in/umarzaman2018)  
+- 🌐 Portfolio: [umarzaman.ca](https://umarzaman.ca)  
 
-## 🖥️ DevOps & SRE Quote
-*“Automate. Optimize. Scale.”*
--->
+---
 
-## 🤝 Let's Connect!
-Feel free to reach out if you're interested in collaboration, have a question, or just want to connect!
+## ⚡ Fun Fact
+When I’m not building in the cloud ☁️, I’m training Muay Thai 🥊 or BJJ 🥋 — discipline and resilience I also bring into tech.  
+
+---
+
+⭐️ *Check out my repos to see what I’m building next in Cloud & DevOps!*  
