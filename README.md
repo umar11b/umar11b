@@ -35,19 +35,19 @@ A **real-time blockchain data analytics pipeline** on AWS.
 
 ---
 
+### 🖥️ Raspberry Pi Kubernetes Homelab  
+A **K3s-based Kubernetes homelab** on Raspberry Pi 5.  
+- Supports **multi-tenant workloads** with namespace isolation & RBAC.  
+- Monitoring with **Prometheus + Grafana**.  
+- Experimenting with **CI/CD deployments** into the cluster.  
+
+---
+
 ### 🌱 [Greenalytics](https://github.com/umar11b/Greenalytics)  
 A **cloud-native sustainability dashboard**.  
 - Visualizes carbon emissions, waste, and energy usage.  
 - Automated CI/CD pipeline → **S3 + CloudFront** (static hosting with HTTPS).  
 - Built with **React, Vite, Chakra UI**, backend planned with **Node.js/DynamoDB**.  
-
----
-
-### 🖥️ [Raspberry Pi Kubernetes Homelab](#)  
-A **K3s-based Kubernetes homelab** on Raspberry Pi 5.  
-- Supports **multi-tenant workloads** with namespace isolation & RBAC.  
-- Monitoring with **Prometheus + Grafana**.  
-- Experimenting with **CI/CD deployments** into the cluster.  
 
 ---
 
