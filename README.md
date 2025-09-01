@@ -35,7 +35,7 @@ A **real-time blockchain data analytics pipeline** on AWS.
 
 ---
 
-### 🖥️ Raspberry Pi Kubernetes Homelab  
+### 🖥️ [Raspberry Pi Kubernetes Homelab](https://github.com/umar11b/k3s-showcase)
 A **K3s-based Kubernetes homelab** on Raspberry Pi 5.  
 - Supports **multi-tenant workloads** with namespace isolation & RBAC.  
 - Monitoring with **Prometheus + Grafana**.  
