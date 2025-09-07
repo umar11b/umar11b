@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Umar Zaman  
+# 👋 Hey There, I'm Umar Zaman  
 
 🚀 **Cloud & DevOps Engineer in the making** — passionate about automation, infrastructure, and building scalable systems.  
 🎓 4th year **Computer Science (Cloud Computing)** student at Sheridan College.  
