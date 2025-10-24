@@ -1,66 +1,82 @@
-# 👋 Hello, I'm Umar Zaman  
+# 👋 Hey, I’m Umar Zaman
 
-🚀 **Cloud & DevOps Engineer in the making** — passionate about automation, infrastructure, and building scalable systems.  
-🎓 4th year **Computer Science (Cloud Computing)** student @ Sheridan College.  
-🌍 Based in Toronto, ON.  
-
----
-
-## 💡 What I Do
-- Design **real-time cloud-native pipelines** with AWS services (SQS, Lambda, DynamoDB, S3, Glue, Athena).  
-- Deploy and manage **infrastructure as code** with Terraform.  
-- Build **CI/CD pipelines** using GitHub Actions for automated testing & deployments.  
-- Run a **Kubernetes homelab (K3s on Raspberry Pi 5)** for hands-on multi-tenant orchestration.  
-- Explore **monitoring/observability** with Prometheus, Grafana, and CloudWatch.  
+**Cloud / DevOps / SRE–focused** engineer who loves automation, reliability, and building scalable systems.  
+🎓 4th-year **B.CompSci (Cloud Computing)** @ Sheridan College · 📍 Toronto, ON
 
 ---
 
-## 🛠️ Tech Stack
-- **Cloud:** AWS (EC2, S3, IAM, Lambda, DynamoDB, SQS, EventBridge, SNS, Glue, Athena, CloudWatch)  
-- **IaC & DevOps:** Terraform, GitHub Actions, Docker, Kubernetes (K3s)  
-- **Languages:** Python, Bash, Go, TypeScript  
-- **Databases:** DynamoDB, MongoDB, PostgreSQL  
-- **Monitoring:** CloudWatch, Prometheus, Grafana, Logrus  
-- **OS:** Linux (Ubuntu, Debian), macOS, Windows  
+## 🚀 What I’m good at
+- **Cloud architectures:** AWS-first with multi-cloud (AWS + GCP) exposure  
+- **Infrastructure as Code:** Terraform (version-controlled IaC, reusable modules)  
+- **CI/CD:** GitHub Actions (plan/apply, build/test/deploy, environment gates)  
+- **Serverless & event-driven:** Lambda, Cloud Functions, queues, webhooks  
+- **Observability:** CloudWatch, GCP Monitoring, Prometheus, Grafana  
+- **Linux & tooling:** Ubuntu/Debian, Docker, Helm/K3s, Bash, Python
 
 ---
 
-## 🔧 Featured Projects  
-
-### 📊 [BlockchainCore](https://github.com/umar11b/BlockchainCore)  
-A **real-time blockchain data analytics pipeline** on AWS.  
-- Binance WebSocket → **SQS** → **Lambda** → DynamoDB (OHLCV) + S3 (raw data).  
-- Analytics with **Glue + Athena**, anomaly detection via **EventBridge + SNS alerts**.  
-- IaC with **Terraform**, CI/CD with **GitHub Actions**, cost-optimized from Kinesis → SQS.  
-
----
-
-### 🖥️ [Raspberry Pi Kubernetes Homelab](https://github.com/umar11b/k3s-showcase)
-A **K3s-based Kubernetes homelab** on Raspberry Pi 5.  
-- Supports **multi-tenant workloads** with namespace isolation & RBAC.  
-- Monitoring with **Prometheus + Grafana**.  
-- Experimenting with **CI/CD deployments** into the cluster.  
+## 🛠 Tech Stack
+**Cloud:** AWS (EC2, S3, IAM, Lambda, CloudWatch), GCP (Pub/Sub, Cloud Functions)  
+**IaC & DevOps:** Terraform, GitHub Actions, Docker, Kubernetes (K3s, Helm)  
+**Languages:** Python, Bash, Go, TypeScript/JavaScript  
+**Databases:** DynamoDB, PostgreSQL, MongoDB  
+**Monitoring:** CloudWatch, Prometheus, Grafana  
+**OS:** Linux (Ubuntu/Debian)
 
 ---
 
-### 🌱 [Greenalytics](https://github.com/umar11b/Greenalytics)  
-A **cloud-native sustainability dashboard**.  
-- Visualizes carbon emissions, waste, and energy usage.  
-- Automated CI/CD pipeline → **S3 + CloudFront** (static hosting with HTTPS).  
-- Built with **React, Vite, Chakra UI**, backend planned with **Node.js/DynamoDB**.  
+## 🔧 Featured Projects
+
+### 📊 BlockchainCore — Multi-Cloud Real-Time Analytics
+**AWS, GCP, Terraform, Python, GitHub Actions**  
+- Built a **multi-cloud data platform** with AWS–GCP redundancy → **99.9% uptime** and **<2-minute failover**  
+- Automated **20+ resources** via Terraform and CI/CD for **repeatable deployments**  
+- Serverless, event-driven pipelines processing **2000+ real-time messages** with **sub-second latency**  
+- Unified monitoring & alerting with **CloudWatch + GCP Monitoring** for proactive incident response  
+- Cost-aware DR using **GCP free tier** to keep backup spend minimal
+
+**Repo:** <https://github.com/umar11b/BlockchainCore>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: [zamanu@sheridancollege.ca](mailto:zamanu@sheridancollege.ca)  
-- 💼 LinkedIn: [linkedin.com/in/umarzaman2018](https://linkedin.com/in/umarzaman2018)  
-- 🌐 Portfolio: [umarzaman.ca](https://umarzaman.ca)  
+### 🖥️ Raspberry Pi Kubernetes Homelab
+**K3s, Docker, Helm, Prometheus, Grafana, Terraform, Bash**  
+- Production-style **K3s cluster** with Helm/Kustomize and **GitOps-style workflows**  
+- **12+ Grafana dashboards** across nodes, pods, and custom metrics  
+- **16% lower memory** via tuned requests/limits and HPA thresholds  
+- CI/CD utilities: **15+ Make targets** for deploy/cleanup/backup (CronJobs)
+
+**Repo:** <https://github.com/umar11b/k3s-showcase>
 
 ---
 
-## ⚡ Fun Fact
-When I’m not building in the cloud ☁️, I’m training Muay Thai 🥊 or BJJ 🥋 — discipline and resilience I also bring into tech.  
+## 💼 Experience
+
+**Cloud Engineer Intern — Learning Mode AI (Jan–Aug 2025, Toronto · Remote)**  
+- Designed a Terraform-based **staging environment** for **four microservices** on a single EC2 instance → improved parity & **~40% lower infra cost**  
+- Shipped **GitHub Actions** pipelines for Terraform validation and service deploys → **~70% faster** releases, fewer manual steps  
+- Centralized logging & alerting with **CloudWatch + Slack** → troubleshooting time dropped from hours to minutes  
+- Cut **MTTD by ~80%** with proactive metrics + real-time alerts  
+- Standardized **Infrastructure-as-Code** practices across environments supporting **200+ users**
+
+**Frontend Developer Intern — Prabbis Consulting (Jan–May 2024, Halifax · Remote)**  
+- Built secure auth flows and responsive UIs with **Next.js, Tailwind, TypeScript**  
+- Improved reusability and performance across device sizes; worked in **Agile/Jira**
 
 ---
 
-⭐️ *Check out my repos to see what I’m building next in Cloud & DevOps!*  
+## 📜 Certifications
+- **AWS Certified Cloud Practitioner (CLF-C02, 2025)**
+
+---
+
+## 📫 Connect
+- Email: **zamanu@sheridancollege.ca**  
+- LinkedIn: **https://linkedin.com/in/umarzaman2018**  
+- Portfolio: **https://umarzaman.ca**
+
+---
+
+### ⚡ Fun fact
+Outside the cloud ☁️ I train **Muay Thai** and **BJJ**—same discipline I bring to engineering.
+
