@@ -50,26 +50,6 @@
 
 ---
 
-## 💼 Experience
-
-**Cloud Engineer Intern — Learning Mode AI (Jan–Aug 2025, Toronto · Remote)**  
-- Designed a Terraform-based **staging environment** for **four microservices** on a single EC2 instance → improved parity & **~40% lower infra cost**  
-- Shipped **GitHub Actions** pipelines for Terraform validation and service deploys → **~70% faster** releases, fewer manual steps  
-- Centralized logging & alerting with **CloudWatch + Slack** → troubleshooting time dropped from hours to minutes  
-- Cut **MTTD by ~80%** with proactive metrics + real-time alerts  
-- Standardized **Infrastructure-as-Code** practices across environments supporting **200+ users**
-
-**Frontend Developer Intern — Prabbis Consulting (Jan–May 2024, Halifax · Remote)**  
-- Built secure auth flows and responsive UIs with **Next.js, Tailwind, TypeScript**  
-- Improved reusability and performance across device sizes; worked in **Agile/Jira**
-
----
-
-## 📜 Certifications
-- **AWS Certified Cloud Practitioner (CLF-C02, 2025)**
-
----
-
 ## 📫 Connect
 - Email: **zamanu@sheridancollege.ca**  
 - LinkedIn: **https://linkedin.com/in/umarzaman2018**  
