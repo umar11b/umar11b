@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Umar Zaman
+# 👋 Hey, I’m Umar Zaman
 
 **Cloud / DevOps / SRE–focused** engineer who loves automation, reliability, and building scalable systems.  
 🎓 4th-year **B.CompSci (Cloud Computing)** @ Sheridan College · 📍 Toronto, ON
